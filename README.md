@@ -1,4 +1,5 @@
-<h1 align='center'>Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, prazer, Lucas! </h1>
+<h1 align='center'>Hello World <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif" width="30px" height="30px">, prazer, Lucas! </h1>
 
 
 <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" align="right"></img>
@@ -19,11 +20,7 @@
 
 ## No Momento...
 
-🏦 Estou trabalhando no front-end e no back-end de uma aplicação financeira:
-
--"https://github.com/luskamusca/mywalletfront".
-
--"https://github.com/luskamusca/mywalletback".
+📚 Lendo o livro ECMAscript 6.  
 
 📚 Me formando na área de desenvolvimento web full-stack na <a href="https://www.driven.com.br/" target="_blank"> Driven Education </a>!
 
