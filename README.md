@@ -16,13 +16,11 @@
 
 💬 Sou fluente em inglês.
 
-🌱 Tenho 18 anos. 
+🌱 Tenho 19 anos. 
 
 ## No Momento...
 
-📚 Lendo o livro ECMAscript 6.  
-
-📚 Me formando na área de desenvolvimento web full-stack na <a href="https://www.driven.com.br/" target="_blank"> Driven Education </a>!
+📚 Lendo o livro "Desenvolvimento de Software com Scrum".  
 
 <br/>
 
